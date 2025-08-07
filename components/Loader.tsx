@@ -87,7 +87,7 @@ const Loader: React.FC<LoaderProps> = ({ onLoadingComplete }) => {
   return (
     <div ref={loaderRef} className="fixed inset-0 bg-white z-100 flex items-center justify-center overflow-hidden">
       <h1 ref={titleRef} className="text-black text-[10vw] font-bold tracking-wider">
-        {splitText('StudioSize')}
+        {splitText('Dizito')}
       </h1>
     </div>
   );
