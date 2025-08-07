@@ -40,8 +40,8 @@ const Page4 = () => {
       <div className="main bg-black w-full lg:h-[58vw] h-[75vw] lg:p-14 p-4 font-[Satoshi]">
         <div className="text-content-2 flex w-full flex-row]">
           <h1 className="text-white lg:text-[5.4vw] text-[4.5vw] font-bold  leading-none ">
-            Back to the simple, <br />
-            intuitive, and inspiring
+            Simple. Scalable.  <br />
+            Tech that works.
           </h1>
         </div>
         <div className="content flex lg:p-10 p-0 lg:h-[40vw] h-[29vw] items-center justify-between">
@@ -55,9 +55,8 @@ const Page4 = () => {
           </div>
           <div className="text text-white flex lg:mt-24 md:mt-22 mt-[25vw] flex-col lg:w-[49vw] w-full lg:px-10 px-5 justify-center">
             <h1 className="lg:text-[1.6vw] md:text-[2vw] text-[2.1vw] font-bold leading-tight">
-              Big multinational companies or small local brands. Partner
-              approach with one universal goal - to create authentic,
-              functional, and beautiful design.
+              Whether it’s a small business or a global name, our approach stays the same — collaborative, 
+              purpose-driven, and focused on building websites and digital systems that work beautifully and scale effortlessly.
             </h1>
             <h1 className="mt-10 font-bold lg:text-2xl md:text-2xl text-[2.1vw] flex items-center lg:gap-10 gap-3">
               Lets talk
