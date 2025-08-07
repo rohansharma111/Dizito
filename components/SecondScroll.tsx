@@ -197,14 +197,13 @@ const Page6: React.FC = () => {
 
           <div className="main-text w-full lg:w-[64vw] h-fit lg:flex lg:gap-10 items-center mt-4 lg:mt-0">
             <p className="text-white tracking-[0.1] leading-[1.1] lg:text-2xl text-sm font-semibold">
-              Great design has no expiration date. It lasts for years and
-              inspires instantly. Our creative freedom enables us to spend more
-              time on fewer projects and
+              They stand the test of time and engage instantly. 
+              Our technical creativity allows us to focus deeply on select projects,
+              bringing together innovation, usability, and aesthetic clarity. 
             </p>
             <p className="text-white tracking-[0.1] leading-[1.1] lg:text-2xl text-sm lg:mt-0  mt-5 font-semibold">
-              focus on the intellectual, functional, and artistic aspects of
-              business. Looking to create profound ideas, timeless design, and
-              beauty in everyday life.
+              We build meaningful websites, reliable IT systems, and future-ready digital solutions —
+              designed to elevate your brand and simplify everyday business.
             </p>
           </div>
         </div>
