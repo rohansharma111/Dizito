@@ -51,11 +51,11 @@ const Page1: React.FC = () => {
   return (    
     <div className='page-part-1 w-full h-[44vw] lg:h-[27vw] sm:h-[39vw] md:h-[45vw] p-4  lg:p-14 sm:p-4 md:p-14 pt-10 sm:pt-10 flex font-[Satoshi]'>
     <div className="content flex flex-col h-full mt-12 sm:mt-24 text-2xl sm:text-4xl md:text-5xl lg:text-[6vw] tracking-tigher sm:tracking-tighter leading-tight sm:leading-[1.1] md:leading-[6vw] font-semibold relative">
-      <h1 className='text-white mb-2 sm:mb-0'>Design studio</h1>
+      <h1 className='text-white mb-2 sm:mb-0'>Tech solutions</h1>
       <h1 className='text-white flex '>
-        for timeless{' '}
+        for modern{' '}
         <span className="block sm:inline relative h-[1.3em]">
-          <AnimatedText words={['strategy', 'packaging', 'motion', 'naming', 'branding']} />
+          <AnimatedText words={['websites', 'IT support', 'cloud apps', 'automation', 'Digital growth']} />
         </span>
       </h1>
     </div>
