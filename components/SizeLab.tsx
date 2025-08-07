@@ -14,7 +14,7 @@ const Page7 = () => {
 
         <div className="absolute inset-0 flex flex-col justify-end lg:p-14 p-4 ">
           <h1 className="text-white text-[5vw] w-[75%] font-bold leading-[4.3vw] tracking-tighter">
-            Size Labs — the <br /> place for all artfroms
+            Dizito — the <br /> engine behind your digital growth  
           </h1>
 
           <div className="smtext flex items-center justify-between w-fit gap-5 mt-7">
