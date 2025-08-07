@@ -125,12 +125,12 @@ const Navbar: React.FC = () => {
       >
         <div className="w-full h-[60px] flex items-center justify-between px-4 md:px-14">
           <div className="logo">
-            <h1 className="text-white text-2xl md:text-3xl">Studio Size</h1>
+            <h1 className="text-white text-2xl md:text-3xl">Dizito</h1>
           </div>
           <div className="hidden md:flex nav-text text-white items-center justify-between w-68 gap-8 font-medium text-[1.2vw]">
             <NavItem index={0}>Home</NavItem>
             <NavItem index={1}>Portfolio</NavItem>
-            <NavItem index={2}>Studio</NavItem>
+            <NavItem index={2}>Services</NavItem>
             <NavItem index={3}>Labs</NavItem>
             <NavItem index={4}>Contact</NavItem>
           </div>
@@ -151,7 +151,7 @@ const Navbar: React.FC = () => {
         <div className="flex flex-col items-center justify-center h-full">
           <NavItem index={0} menuItem>Home</NavItem>
           <NavItem index={1} menuItem>Portfolio</NavItem>
-          <NavItem index={2} menuItem>Studio</NavItem>
+          <NavItem index={2} menuItem>Services</NavItem>
           <NavItem index={3} menuItem>Labs</NavItem>
           <NavItem index={4} menuItem>Contact</NavItem>
         </div>
