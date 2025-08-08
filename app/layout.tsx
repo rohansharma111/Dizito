@@ -10,8 +10,8 @@ const bebasNeue = Bebas_Neue({
 });
 
 export const metadata: Metadata = {
-  title: "StudioSize",
-  description: "StudioSize is a free and open source platform for creating and sharing studio logos.",
+  title: "Dizito",
+  description: "Dizito is a platform for creating, launching, and sharing powerful websites and digital solutions.",
 };
 
 export default function RootLayout({
